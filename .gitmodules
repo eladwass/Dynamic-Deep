@@ -1,3 +1,6 @@
 [submodule "src/downstream_tasks/RPNet"]
 	path = src/downstream_tasks/RPNet
 	url = https://github.com/acrarshin/RPNet.git
+[submodule "src/downstream_tasks/ecg"]
+	path = src/downstream_tasks/ecg
+	url = https://github.com/awni/ecg.git
