@@ -1,6 +1,4 @@
 # Dynamic-Deep: ECG Task-Aware Compression
-Dynamic-Deep: ECG Task-Aware Compression
-
 ## Introduction
 Our work has been submitted for GLOBECOM2021 IoTSN. Please return in a while to read our final paper 
 
