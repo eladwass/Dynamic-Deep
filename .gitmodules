@@ -4,3 +4,6 @@
 [submodule "src/downstream_tasks/ecg"]
 	path = src/downstream_tasks/ecg
 	url = https://github.com/awni/ecg.git
+[submodule "src/downstream_tasks/BioSPPy"]
+	path = src/downstream_tasks/BioSPPy
+	url = https://github.com/PIA-Group/BioSPPy.git
