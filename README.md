@@ -10,12 +10,13 @@ If you find our work useful in your research, please consider citing:
 @InProceedings{Wass2112:Dynamic,
 author="Elad Wasserstein and Eli Brosh and Anat Bremler-Barr",
 title="{Dynamic-Deep:} ECG Task-Aware Compression",
-booktitle="2021 IEEE Global Communications Conference: IoT and Sensor Networks
-(Globecom2021 IoTSN)",
+booktitle="2021 IEEE Global Communications Conference: Selected Areas in
+Communications: Machine Learning for Communications (Globecom2021 SAC MLC)",
 ADDRESS="Madrid, Spain",
 MONTH=dec,
 YEAR=2021}
 ```
+
 
 ## Usage
 This project contains three git submodules for each downstream task. 
